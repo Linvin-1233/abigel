@@ -11,4 +11,6 @@ Személyes archívum és további projektek:
 https://linvin.net 
 
 Ez az oldal nem végleges.  
-Ez csak egy pillanat a folyamatosan bővülő rendszerben.  
+Csupán egy állomás egy folyamatosan fejlődő és bővülő rendszer történetében.  
+
+— Zhihan
