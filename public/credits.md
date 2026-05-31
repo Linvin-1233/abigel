@@ -1,16 +1,17 @@
-Ez a projekt nem jöhetett volna létre egyedül. 
+Külön köszönet a nyílt forráskódú közösségnek és azoknak az eszközöknek, amelyek lehetővé tették ennek a projektnek a megvalósítását.
 
-Köszönet mindazoknak, akik valaha is segítettek abban, hogy ez a digitális archívum formát öltsön — akár egy ötlettel, akár egy hibajelzéssel, akár csak csendes jelenléttel.  
+A projekt teljes forráskódja elérhető:
 
-Külön köszönet a nyílt forráskód közösségnek, amely nélkül ez a rendszer nem létezhetne ilyen formában.  
-
-A projekt teljes forráskódja elérhető:  
 GitHub: https://github.com/Linvin-1233/abigel
 
-Személyes archívum és további projektek:  
-https://linvin.net 
+Személyes archívum és további projektek:
 
-Ez az oldal nem végleges.  
-Csupán egy állomás egy folyamatosan fejlődő és bővülő rendszer történetében.  
+https://linvin.net
 
-— Zhihan
+Ez az oldal nem végleges.
+
+Csupán egy állomás egy folyamatosan fejlődő és bővülő rendszer történetében.
+
+Tervezés, fejlesztés és kivitelezés:
+
+— Wei Zhihan
